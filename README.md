@@ -9,3 +9,5 @@ Demo de Apache Cordova sobre plugins:
 - NPM 9.5.1
 - Apache Cordova 12.0.0
 - Android Studio Electric eel 2022.1.1
+
+by: Sofia Dussan
