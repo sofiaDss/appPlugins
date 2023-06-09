@@ -4,7 +4,7 @@ Demo de Apache Cordova sobre plugins:
 - Vibration
 
 # Tools
-- Java JDK 11.0.19
+- Java JDK 17.0.7
 - Node JS 18.16.0
 - NPM 9.5.1
 - Apache Cordova 12.0.0
